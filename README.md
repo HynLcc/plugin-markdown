@@ -1,6 +1,6 @@
 # Teable Markdown Renderer Plugin
 
-A powerful [Next.js](https://nextjs.org) and [Teable](https://teable.io) plugin that renders Markdown content from table cells with enhanced features and custom styling.
+A [Teable](https://teable.ai) plugin that renders Markdown content.
 
 ## ✨ Features
 
