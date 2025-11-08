@@ -128,5 +128,24 @@ export const markdownComponents = {
       </a>
     );
   },
+
+  // List components - let markdown.css handle the styling
+  ul: ({ children, ...props }: any) => (
+    <ul {...props}>
+      {children}
+    </ul>
+  ),
+
+  ol: ({ children, ...props }: any) => (
+    <ol {...props}>
+      {children}
+    </ol>
+  ),
+
+  li: ({ children, ...props }: any) => (
+    <li {...props}>
+      {children}
+    </li>
+  ),
 };
 

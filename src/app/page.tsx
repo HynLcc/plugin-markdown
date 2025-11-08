@@ -16,7 +16,7 @@ const resources = {
 export async function generateMetadata(): Promise<Metadata> {
 
   return {
-    title: 'TODO List',
+    title: 'Markdown Renderer',
   };
 }
 

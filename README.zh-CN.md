@@ -1,6 +1,6 @@
 # Teable Markdown 渲染器插件
 
-一个基于 [Teable](https://teable.ai) 的插件，可渲染表格单元格 Markdown 内容
+一个基于 [Teable](https://teable.ai) 的插件，用于从表格单元格渲染 Markdown 内容。
 
 ## ✨ 功能特性
 

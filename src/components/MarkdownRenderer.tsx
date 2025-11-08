@@ -143,7 +143,7 @@ export const MarkdownRenderer = ({ tableId }: { tableId: string }) => {
             </div>
           </div>
         ) : content ? (
-          <div className="markdown-body p-7">
+          <div className="markdown-body">
             <ReactMarkdown remarkPlugins={[remarkGfm]} components={markdownComponents}>
               {content}
             </ReactMarkdown>

@@ -20,6 +20,7 @@
     "@teable/sdk": "latest",
     "@teable/ui-lib": "latest",
     "clsx": "^2.1.1",
+    "critters": "^0.0.23",
     "github-markdown-css": "^5.8.1",
     "i18next": "23.10.1",
     "next": "14.2.14",
